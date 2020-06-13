@@ -3,6 +3,21 @@
  
 MU0 {compiler, execution program} with memory management simulation.
 
+### Loading the MU0 program snippet and configuring the page replacement algorithm
+
+![alt text](https://github.com/Raxerz/memory-management-simulator/blob/master/screenshots/screen-1.png "Screen-1")
+
+![alt text](https://github.com/Raxerz/memory-management-simulator/blob/master/screenshots/screen-2.png "Screen-2")
+
+### Memory management simulator interface 
+
+![alt text](https://github.com/Raxerz/memory-management-simulator/blob/master/screenshots/screen-3.png "Screen-3")
+
+![alt text](https://github.com/Raxerz/memory-management-simulator/blob/master/screenshots/screen-4.png "Screen-4")
+
+![alt text](https://github.com/Raxerz/memory-management-simulator/blob/master/screenshots/screen-5.png "Screen-5")
+
+
 ***_Disclaimer: The memory simulator has been designed and tested only on Ubuntu._***
 ## _Shortened Summary (for experienced users)_ 
 * _**STEP 1**_ Run the program with the following command:
@@ -55,8 +70,4 @@ MU0 {compiler, execution program} with memory management simulation.
  
  To execute the MU0 program(s), simply press STEP or RUN until all processes have completed execution.
  When all processes have terminated, a message box apprears displaying the final status for all processes. Click on OK, and then click on RESET to start again, or QUIT to quit.
-
-
-
-
 
